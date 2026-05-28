@@ -24,7 +24,8 @@ It is intended for:
 
 ## Research Paper
 
-📄 [Download Full Research Paper PDF](./AJ_Dimensional_Observation_Theory_Refined.pdf)
+📄 [Open Theory paper PDF](./Theory-paper.pdf)
+
 
 ## Author
 
